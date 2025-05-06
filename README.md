@@ -5,7 +5,7 @@ This project presents a statistical analysis of the 2025 UTME score distribution
 ## Contents
 - 📄 `UTME_2025_Analysis.pdf` – Full report with plots, summary statistics, and recommendations
 - 📊 Plots used in the report (`.png`)
-- 🧪 `simulate_utme_scores.py` – Python script to generate the data and visuals
+- 🧪 `simulate_data.ipynb` – Python code to generate the data, analysis, and visuals
 
 ## Highlights
 - Realistic simulation using truncated normal distributions
